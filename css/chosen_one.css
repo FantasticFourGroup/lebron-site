@@ -266,3 +266,32 @@
 	font-size: 14px;
 	line-height: 1.5;
 }
+
+.section-3 {
+	background-color: #f5f7fa;
+	padding: 100px 10%;
+}
+
+.story {
+	display: grid;
+	grid-template-columns: auto auto;
+	grid-gap: 50px;
+	margin: 50px 0px;
+}
+
+.story-img {
+	width: 535px;
+}
+
+.story-title {
+	font-size: 40px;
+	font-weight: bolder;
+	margin-bottom: 20px;
+	font-family: "Trebuchet MS";
+}
+
+.story-paragraph {
+	line-height: 1.5;
+	font-size: 16px;
+	font-family: "Palatino Linotype";
+}
